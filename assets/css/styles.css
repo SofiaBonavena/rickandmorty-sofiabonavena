@@ -1,0 +1,79 @@
+body {
+    background-image: url("estrellas.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    
+}
+.title {
+    color: white;
+}
+
+.subtitle {
+    color: white;
+}
+.card {
+    color: white;
+    border-radius: 30px;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(53,97,0,1) 47%);
+    box-shadow: rgba(137, 189, 74, 0.3) -5px 5px, rgba(137, 189, 74, 0.2) -10px 10px, rgba(137, 189, 74, 0.1) -15px 15px;
+}
+
+.column {
+    padding: .95rem;
+}
+
+.hero-body {
+    background-image: url("hero.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.input {
+    background-color: #89bd4a;
+    border-color: black;
+    background: none;
+    border-bottom: 4px solid #8abe4a;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    
+}
+
+.input.is-rounded {
+    border-radius: 0px;
+    color: white;
+}
+
+.button.is-info {
+    background-color: #8abe4a;
+}
+
+.box {
+    color: white;
+    background: rgb(53,97,0);
+background: radial-gradient(circle, rgba(53,97,0,1) 40%, rgba(0,0,0,1) 100%);
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+strong {
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    color: white;
+}
+
+.h3 {
+    color: white;
+}
+
+footer {
+    background-image: url("estrellas.jpg");
+}
